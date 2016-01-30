@@ -1,0 +1,6 @@
+C:\PT_labs\Azamat\week1 prime number\week1 prime number\bin\Debug\week1 prime number.exe.config
+C:\PT_labs\Azamat\week1 prime number\week1 prime number\obj\Debug\week1 prime number.csprojResolveAssemblyReference.cache
+C:\PT_labs\Azamat\week1 prime number\week1 prime number\bin\Debug\week1 prime number.exe
+C:\PT_labs\Azamat\week1 prime number\week1 prime number\bin\Debug\week1 prime number.pdb
+C:\PT_labs\Azamat\week1 prime number\week1 prime number\obj\Debug\week1 prime number.exe
+C:\PT_labs\Azamat\week1 prime number\week1 prime number\obj\Debug\week1 prime number.pdb
